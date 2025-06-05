@@ -12,3 +12,11 @@ header.masthead::after{
     height: 100%;
 
 }
+.text-primary{
+    color:#024d71 !important;
+}
+.portfolio-item img{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
